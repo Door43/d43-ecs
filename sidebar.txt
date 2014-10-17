@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ecs:home|Door43 (ecs)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ecs|d43-ecs repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ecs/archive/master.zip|d43-ecs.zip]]
+
+**Recent Changes**
+{{changes>ns = ecs}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ecs|Ethnologue data]]
+
